@@ -2,7 +2,11 @@
 ## 
 Estudando JavaScript e React⚛️ <br>
 Cursando Gama Academy 👊 <br>
-Apaixonada por Programação e Design 💻
+Apaixonada por Programação e Design 💻 <br>
+Fã de League of legends <br>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Seraṕhine" height="30" width="40" src="https://giphy.com/gifs/leagueoflegends-waifu-l1J9BzV9oRSdIKNDq">
+</div>
 
 
 <div align="center">
@@ -20,7 +24,5 @@ Apaixonada por Programação e Design 💻
 <div>
   <a href = "mailto:maridsccorrea@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marilenedossantoscorrea/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/MarileneCorrea/marileneCorrea/blob/output/github-contribution-grid-snake.svg)
  
 </div>
