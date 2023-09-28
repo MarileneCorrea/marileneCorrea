@@ -9,8 +9,8 @@ Ooi! Tudo bem? <br>
 <div align="center">
 <br>
   
-|![MarileneCorrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarileneCorrea&theme=panda) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarileneCorrea&hide=Html&theme=panda) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarileneCorrea&theme=panda) |
-| :-: | :-: | :-: |
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarileneCorrea&hide=Html&theme=panda) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarileneCorrea&theme=panda) |
+| :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarileneCorrea&theme=panda)
 | :-: |
