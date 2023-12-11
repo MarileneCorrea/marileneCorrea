@@ -2,7 +2,6 @@
 <div align="center">
 Ooi! Tudo bem? <br>
 • ⚛️ Estudando JavaScript e React <br>
-• 📚 Cursando análise e desenvolvimento de sistemas na Faculdade das Américas <br>
 • 💻 Apaixonada por Programação e Design <br>
 </div>
 
